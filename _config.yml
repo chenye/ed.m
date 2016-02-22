@@ -3,7 +3,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: none
+permalink: /:categories/:title/
 
 # Markdown specs
 markdown: kramdown
@@ -26,9 +26,9 @@ baseurl:             '/ed.m'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Ye Chen
+  url:               http://sugarscape.net/
+  email:             chenye84@gmail.com
 
 # Custom vars
 version:             0.0.3
